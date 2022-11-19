@@ -1,7 +1,7 @@
 package Zoo;
 
 public enum ZooAnimals {
-    TIGER(1,"Tiger"),
+    TIGER(1, "Tiger"),
     ELEPHANT(2, "Elephant"),
     PANDA(3, "Panda"),
     STRAUS(4, "Straus"),
@@ -15,7 +15,7 @@ public enum ZooAnimals {
         this.zooAnimal = zooAnimal;
     }
 
-    public int getI(){
+    public int getI() {
         return i;
     }
 

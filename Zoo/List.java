@@ -1,7 +1,7 @@
 package Zoo;
 
 public class List {
-    public void AnimalList() {
+    public void animalList() {
         ZooAnimals tiger = ZooAnimals.TIGER;
         ZooAnimals elephant = ZooAnimals.ELEPHANT;
         ZooAnimals panda = ZooAnimals.PANDA;
